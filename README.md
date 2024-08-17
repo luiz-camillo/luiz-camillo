@@ -1,6 +1,6 @@
 Olá! Eu sou o Luiz. 
 <div> 
-<h1>Sejam bem vindos®!</h1>
+<h1><strong>Sejam bem vindos®</strong></h1>
 
 </div>
  <div>
