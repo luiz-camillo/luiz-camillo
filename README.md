@@ -1,6 +1,6 @@
 Olá! Eu sou o Luiz. 
 <div> 
-<h1><strong>Sejam bem vindos®</strong></h1>
+<h1><strong>Dev em formação ॐ</strong></h1>
 
 </div>
  <div>
@@ -17,7 +17,7 @@ Olá! Eu sou o Luiz.
  
 <br>
  
-### Aproveita e me segue nas minhas redes!
+### Acompanhe minha envolução!
 
 <div> 
   <a href="https://www.instagram.com/luizlazaretti.dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
