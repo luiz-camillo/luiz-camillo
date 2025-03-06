@@ -1,8 +1,10 @@
-# Olá, eu sou o Luiz Camillo 👋
+# Oi, Luiz Camillo aqui!
+ bora:
+   codar()
 
-Bora: `<codar>`  
-Seja bem-vindo ao meu perfil!  
-Sou programador com foco em **Python** e apaixonado por resolver problemas através de código. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e colaborar com outros desenvolvedores.
+Atualmente, estou estudando **Python** e **SQL**, e me aprimorando para me tornar um desenvolvedor **Fullstack Python**. Estou focado em adquirir as habilidades necessárias para desenvolver soluções completas, tanto no front-end quanto no back-end.
+
+Busco novos desafios para testar meus conhecimentos e me aprimorar como **dev**.
 
 ## Linguagens que mais uso 🚀
 
