@@ -1,27 +1,12 @@
-Olá! Eu sou o Luiz. 
-<div> 
-<h1><strong>Dev em formação ॐ</strong></h1>
+# Olá, eu sou o Luiz Camiloo 👋
 
-</div>
- <div>
-   <a href="https://github.com/luiz-camillo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+Bem-vindo ao meu perfil no GitHub! 😄  
+Sou apaixonado por programação, principalmente **Python**, e estou sempre buscando aprender e melhorar minhas habilidades.
 
-</div>
- 
-<br>
- 
-### Acompanhe minha evolução!
+## Linguagens que mais uso 🚀
 
-<div> 
-  <a href="https://www.instagram.com/luizcamillo.dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lazarettieb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-fernando-ferreira-lazaretti-113700201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=radical)](https://github.com/luiz-camillo)
+
+## Estatísticas do GitHub 📊
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-camillo&count_private=true&show_icons=true&theme=radical)](https://github.com/luiz-camillo)
