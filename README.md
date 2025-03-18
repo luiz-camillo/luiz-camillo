@@ -2,7 +2,7 @@
  bora:
    codar()
 
-Atualmente, estou estudando **Python** e **SQL**, e me aprimorando para me tornar um desenvolvedor **Fullstack Python**. Estou focado em adquirir as habilidades necessárias para desenvolver soluções completas, tanto no front-end quanto no back-end.
+Atualmente, estou estudando **Python** e **SQL**, me aprimorando para me tornar um desenvolvedor **Fullstack Python**. Estou focado em adquirir as habilidades necessárias para desenvolver soluções completas, tanto no front-end quanto no back-end.
 
 Busco novos desafios para testar meus conhecimentos e me aprimorar como **dev**.
 
