@@ -1,10 +1,10 @@
-# Oi, Luiz Camillo aqui!
- bora:
-   codar()
 
-Atualmente, estou estudando **Python** e **SQL**, me aprimorando para me tornar um desenvolvedor **Fullstack Python**. Estou focado em adquirir as habilidades necessárias para desenvolver soluções completas, tanto no front-end quanto no back-end.
+# 💻 Minha Jornada de Desenvolvimento
 
-Busco novos desafios para testar meus conhecimentos e me aprimorar como **dev**.
+Dev em formação | Aqui tem um pouco de tudo, o que eu estudo, os projetos que já fiz e que estão em desenvolvimento e minha jornada com a tecnologia
+
+Estou estudando diariamente conceitos da orientação a objetos, com Python e PHP, trabalho com Linux, observabilidade, bancos de dados MYSQL, e estou buscando minha colocação como Dev.
+
 
 ## Linguagens que mais uso 🚀
 
