@@ -10,6 +10,3 @@ Busco novos desafios para testar meus conhecimentos e me aprimorar como **dev**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=radical)](https://github.com/luiz-camillo)
 
-## Estatísticas do GitHub 📊
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-camillo&count_private=true&show_icons=true&theme=radical)](https://github.com/luiz-camillo)
