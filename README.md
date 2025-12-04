@@ -8,6 +8,6 @@ Estou estudando diariamente conceitos da orientação a objetos, com Python e PH
 
 ## Linguagens que mais uso 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=radical)](https://github.com/luiz-camillo)&cache_seconds=1
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=radical)](https://github.com/luiz-camillo)
 
 
