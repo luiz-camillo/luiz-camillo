@@ -1,12 +1,17 @@
+💻 Minha Jornada de Desenvolvimento
 
-# 💻 Minha Jornada de Desenvolvimento
+ADS | DevOps | AI Agents | Observabilidade de Redes | Linux | Python | n8n | Automação | Bancos de Dados
 
-Dev em formação | Aqui tem um pouco de tudo, o que eu estudo, os projetos que já fiz e que estão em desenvolvimento e minha jornada com a tecnologia
+Aqui você vai encontrar um pouco de tudo: estudos, projetos já desenvolvidos e ideias que estou colocando em prática na minha jornada com tecnologia.
 
-Estou estudando diariamente conceitos da orientação a objetos, com Python e PHP, trabalho com Linux, observabilidade, bancos de dados MYSQL, e estou buscando minha colocação como Dev.
+Atualmente estou focado no desenvolvimento backend, estudando e aplicando:
 
+Programação orientada a objetos com Python e Java
+Bancos de dados (MySQL)
+Linux (ambiente real e administração)
+Observabilidade e monitoramento de sistemas
+Integração de APIs e automações
 
+Também venho explorando inteligência artificial aplicada, criando agentes automatizados, integrações entre sistemas e soluções voltadas a problemas reais.
 
-
-
-
+Meu objetivo é evoluir constantemente como dev, consolidando base técnica e construindo projetos cada vez mais sólidos e aplicáveis ao mercado.
