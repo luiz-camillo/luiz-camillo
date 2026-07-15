@@ -6,7 +6,7 @@
 
 ### Transformando infraestrutura, automação e inteligência artificial em soluções reais.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;DevOps+Enthusiast;AI+Agents+%7C+n8n+Automation;Linux+%7C+Docker+%7C+Proxmox;Network+Observability;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;AI+Engineer;DevOps+Enthusiast;AI+Agents+%7C+n8n+Automation;Linux+%7C+Docker+%7C+Proxmox;Network+Observability;Always+Learning..." />
 
 </div>
 
