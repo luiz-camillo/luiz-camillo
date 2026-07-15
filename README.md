@@ -1,4 +1,4 @@
-# 👨‍💻 Luiz Fernando Camillo Ferreira
+# 👨‍💻 Luiz  Ferreira
 
 <div align="center">
 
@@ -12,93 +12,7 @@
 
 ---
 
-# 🚀 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, automação e desenvolvimento backend.
-
-Minha jornada começou com cursos de lógica de programação, Linux, PowerShell, bancos de dados relacionais e fundamentos de Python. Com o tempo aprofundei meus conhecimentos em desenvolvimento utilizando Python, Programação Orientada a Objetos e engenharia de software.
-
-Atualmente também participo de uma formação completa em **Machine Learning e Visão Computacional**, conquistada através de um processo seletivo da **SCTEC**, expandindo meus conhecimentos em Inteligência Artificial aplicada.
-
 Meu objetivo é construir soluções que unam software, infraestrutura e automação para resolver problemas reais.
-
----
-
-# 🎓 Formação
-
-* 🎓 Análise e Desenvolvimento de Sistemas (ADS)
-* 📚 Formação em Machine Learning e Visão Computacional (SCTEC)
-* 📖 Cursos em Python
-* 📖 Programação Orientada a Objetos
-* 📖 Linux
-* 📖 PowerShell
-* 📖 Bancos de Dados Relacionais
-* 📖 Lógica de Programação
-
----
-
-# 💼 Experiência
-
-Atualmente trabalho administrando ambientes de monitoramento de redes e infraestrutura, atuando principalmente com:
-
-* Administração de servidores Linux
-* Virtualização utilizando Proxmox
-* Containers Docker
-* Monitoramento com Zabbix
-* Observabilidade de ambientes
-* Firewall (nftables)
-* Migração e otimização de bancos de dados
-* Dashboards e métricas
-* Consumo e integração de APIs
-* Automações utilizando n8n
-* Agentes de IA
-* Integrações com WhatsApp API
-* Automação de processos operacionais
-
-Essa experiência me permite unir infraestrutura e desenvolvimento para criar soluções completas.
-
----
-
-# 🛠 Tecnologias
-
-## Backend
-
-* Python
-* Java
-* PHP
-* SQL
-
-## Banco de Dados
-
-* MySQL
-* MariaDB
-
-## Infraestrutura
-
-* Linux
-* Docker
-* Proxmox
-* Nginx
-* Git
-* GitHub
-
-## Observabilidade
-
-* Zabbix
-* Grafana
-
-## Automação
-
-* n8n
-* APIs REST
-* Webhooks
-
-## Inteligência Artificial
-
-* OpenAI API
-* Machine Learning
-* Computer Vision
-* AI Agents
 
 ---
 
@@ -113,33 +27,6 @@ Essa experiência me permite unir infraestrutura e desenvolvimento para criar so
 * Engenharia de Software
 * Clean Code
 * Design Patterns
-
----
-
-# 🚀 Projetos
-
-### 🤖 Agentes de IA
-
-Automação utilizando IA integrada ao WhatsApp, APIs e n8n.
-
----
-
-### 📊 Observabilidade
-
-Projetos utilizando Zabbix, Grafana e automações para monitoramento de ambientes.
-
----
-
-### 🐍 Backend Python
-
-Aplicações voltadas para automação, APIs e integração entre sistemas.
-
----
-
-### ⚙️ Infraestrutura
-
-Projetos envolvendo Linux, Docker, Proxmox, bancos de dados e segurança.
-
 ---
 
 # 📈 GitHub
