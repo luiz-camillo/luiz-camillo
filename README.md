@@ -51,28 +51,3 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 ---
 
-# 🐍 Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/luiz-camillo/luiz-camillo/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📫 Contato
-
-* LinkedIn
-* GitHub
-* E-mail
-
-Sempre aberto para compartilhar conhecimento, colaborar em projetos e aprender novas tecnologias.
-
----
-
-<div align="center">
-
-### "Tecnologia não é apenas escrever código. É construir soluções."
-
-</div>
