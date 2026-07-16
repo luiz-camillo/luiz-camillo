@@ -4,7 +4,6 @@
 
 # Python Developer | AI Engineer | DevOps | Automação de Processos | Linux | Docker
 
-<img src="https://komarev.com/ghpvc/?username=luiz-camillo&color=ff0000&style=flat-square" alt="Contador de Visitas" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+Developer;AI+Engineer;DevOps+Enthusiast;AI+Agents+%7C+n8n+Automation;Linux+%7C+Docker+%7C+Proxmox;Network+Observability;Always+Learning..." />
 
@@ -46,14 +45,14 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 ---
 
+---
+
 # 📊 Minhas Estatísticas
 
 <p align="center">
-  <!-- Card de Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luiz" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
   
-  <!-- Card de Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Utilizadas" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=luiz-camillo&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Utilizadas" height="180" />
 </p>
 
 ---
