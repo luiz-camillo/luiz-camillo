@@ -43,16 +43,4 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 ---
 
----
 
----
-
-# 📊 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=luiz-camillo&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Utilizadas" height="180" />
-</p>
-
----
