@@ -43,3 +43,17 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 </p>
 
 ---
+
+---
+
+# 📊 Minhas Estatísticas
+
+<p align="center">
+  <!-- Card de Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Luiz" height="180" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens Mais Utilizadas" height="180" />
+</p>
+
+---
