@@ -35,11 +35,11 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,php,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,php,js,mysql" />
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postman" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,postman" />
 
 ### DevOps & Infrastructure
 
@@ -47,7 +47,7 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 ### Databases & Automation
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
 
 </div>
 
@@ -81,9 +81,9 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=luiz-camillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-camillo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,7 +93,11 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luiz-camillo/luiz-camillo/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="./github-snake.svg">
+</picture>
 
 </div>
 
@@ -133,7 +137,7 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 <div align="center">
 
-<img src="https://github.com/luiz-camillo/luiz-camillo/blob/main/github-metrics.svg" alt="GitHub Isometric Calendar" />
+<img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Contribution Calendar" />
 
 </div>
 
@@ -151,6 +155,6 @@ Meu objetivo é construir soluções que unam software, infraestrutura e automa�
 
 <div align="center">
 
-### ⚡ Building. Automating. Learning.
+### Building. Automating. Learning.
 
 </div>
